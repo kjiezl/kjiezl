@@ -3,7 +3,7 @@
     <a href="https://github.com/kjiezl"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjiezl&theme=dracula" alt="kjiezl" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjiezl&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="kjiezl" height="192px"/>
+	  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjiezl&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="kjiezl" height="192px"/> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kjiezl&theme=dracula" alt="kjiezl" height="165px"/>
 	</p>
   <br/>
